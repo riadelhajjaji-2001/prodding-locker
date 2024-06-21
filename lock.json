@@ -1,0 +1,11 @@
+{
+    "user": "Riad El Hajjaji",
+    "email": "riad.el-hajjaji@ovhcloud.com",
+    "date": "2024-06-21 07:57:23.218639+00:00",
+    "message": "Riad El Hajjaji manual lock",
+    "repositories": {
+        "test-repo": [
+            "d03cebf2f077330a8dd79fdff5a599af1bd4d4bc"
+        ]
+    }
+}
